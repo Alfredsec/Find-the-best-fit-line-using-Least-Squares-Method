@@ -1,4 +1,4 @@
-# DATE : 08.03.2025
+## DATE : 
 
 # EXP-1 Implementation of Univariate Linear Regression
 ## AIM:
